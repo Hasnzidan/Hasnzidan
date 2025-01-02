@@ -64,5 +64,5 @@ I am a full-stack web developer with a passion for building efficient and scalab
 </div>
 
 ###
-<img  align="Right" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
+<img  align="Right" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
 <img  align="Left" height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnzidan&theme=dracula" />
