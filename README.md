@@ -10,7 +10,7 @@
 
 ## 
 <div style="display: flow-root;">
-  <img align="right" width="270" src="https://github.com/Hasnzidan/Hasnzidan/blob/main/PizzaNinjas-programmer.webp" />
+  <img align="right" width="270" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" />
 <p>I am a BackEnd developer with a passion for building efficient and scalable applications.</p>
 <p>I have a Bachelor's degree, Computer and Information Sciences and am always eager to learn new technologies.</p>
 <p>My expertise includes Asp.NetCore, EntityFramework, EntityFrameworkCore, SQL, JavaScript, C#, HTML and CSS.</p>
