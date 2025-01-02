@@ -45,6 +45,24 @@ I am a full-stack web developer with a passion for building efficient and scalab
   <a target="_blank" href="https://t.me/hasnzidan"><img src="https://github.com/Hasnzidan/Hasnzidan/blob/main/telegram.svg" alt="hasnzidan"/></a>
 </p>
 
+<h2>:thought_balloon: Quote of the day</h2>
+<details align="Center" open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+
+## 🗃 Projects
+
+<div align="left">
+  <a href="https://github.com/Hasnzidan/ECommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=ECommerce&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS" /></a>
+  <a href="https://github.com/Hasnzidan/Blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Blog&theme=react&hide_border=true&show_icons=false" alt="SnakeJS" /></a>
+  <a href="https://github.com/Hasnzidan/Restaurant-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Restaurant-Management-System&theme=react&hide_border=true&show_icons=false" alt="conway sequence" /></a>
+  <a href="https://github.com/Hasnzidan/Student-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Student-Management-System&theme=react&hide_border=true&show_icons=false" alt="renaming files correctly" /></a>
+  <a href="https://github.com/Hasnzidan/Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Shop&theme=react&hide_border=true&show_icons=false" alt="Risibot" /></a>
+</div>
+
 ###
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnzidan&theme=dracula" />
-<img  align="Left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
+<img  align="Right" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
+<img  align="Left" height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnzidan&theme=dracula" />
