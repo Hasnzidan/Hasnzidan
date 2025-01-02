@@ -10,7 +10,7 @@
 
 ## 
 <div style="display: flow-root;">
-  <img align="right" width="270" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" />
+  <img align="right" width="270" src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952ctskfr7enwyp0kkr7tau73byp6a73wrh8dyhjg8z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 <p>I am a BackEnd developer with a passion for building efficient and scalable applications.</p>
 <p>I have a Bachelor's degree, Computer and Information Sciences and am always eager to learn new technologies.</p>
 <p>My expertise includes Asp.NetCore, EntityFramework, EntityFrameworkCore, SQL, JavaScript, C#, HTML and CSS.</p>
