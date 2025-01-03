@@ -67,5 +67,5 @@
 </div>
 
 ###
-<img  align="Center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=false"  alt="languages graph"  />
+<img  align="Center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=false"  alt="languages graph"  />
 
