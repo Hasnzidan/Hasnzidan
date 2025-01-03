@@ -56,16 +56,6 @@
     </a>
 </details>
 
-## 🗃 Projects
-
-<div align="left">
-  <a href="https://github.com/Hasnzidan/ECommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=ECommerce&theme=react&hide_border=true&show_icons=false" alt="CalculatorJS" /></a>
-  <a href="https://github.com/Hasnzidan/Blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Blog&theme=react&hide_border=true&show_icons=false" alt="SnakeJS" /></a>
-  <a href="https://github.com/Hasnzidan/Restaurant-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Restaurant-Management-System&theme=react&hide_border=true&show_icons=false" alt="conway sequence" /></a>
-  <a href="https://github.com/Hasnzidan/Student-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Student-Management-System&theme=react&hide_border=true&show_icons=false" alt="renaming files correctly" /></a>
-  <a href="https://github.com/Hasnzidan/Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hasnzidan&repo=Shop&theme=react&hide_border=true&show_icons=false" alt="Risibot" /></a>
-</div>
-
 ###
 <img  align="Center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=false"  alt="languages graph"  />
 
