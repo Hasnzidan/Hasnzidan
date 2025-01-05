@@ -8,6 +8,14 @@
   </a>
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 
 <div style="display: flow-root;">
   <img align="right" width="270" src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952ctskfr7enwyp0kkr7tau73byp6a73wrh8dyhjg8z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
