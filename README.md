@@ -67,5 +67,7 @@
 </details>
 
 ###
-<img  align="Center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnzidan&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=false"  alt="languages graph"  />
+<img width="100%" src="https://streak-stats.demolab.com?user=hasnzidan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+
 
