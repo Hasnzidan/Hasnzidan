@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Dot-Net%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
@@ -21,7 +21,7 @@
       <div>
   <img align="right" width="270" src="https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952ctskfr7enwyp0kkr7tau73byp6a73wrh8dyhjg8z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
       </div>
-<p>I am a BackEnd developer with a passion for building efficient and scalable applications.</p>
+<p>I am a DotNet developer with a passion for building efficient and scalable applications.</p>
 <p>I have a Bachelor's degree, Computer and Information Sciences and am always eager to learn new technologies.</p>
 <p>My expertise includes Asp.NetCore, EntityFramework, EntityFrameworkCore, SQL, JavaScript, C#, HTML and CSS.</p>
 <p>I am currently focused on enhancing my skills in web development and exploring new frontiers in technology.</p>
