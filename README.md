@@ -49,7 +49,7 @@
 ### 📫  &nbsp;How to reach me
 
 <p align="center">
-  <a href="mailto:zedanh3@gmail.com"><img src="https://github.com/Hasnzidan/Hasnzidan/blob/main/gmail.svg" alt="gmail"></a>
+  <a href="mailto:hassanelsaidzidan@gmail.com"><img src="https://github.com/Hasnzidan/Hasnzidan/blob/main/gmail.svg" alt="gmail"></a>
   <a target="_blank" href="https://linkedin.com/in/hasnzidan"><img src="https://github.com/Hasnzidan/Hasnzidan/blob/main/linkedin.svg" alt="hasnzidan"/></a>
   <a target="_blank" href="https://www.instagram.com/hssnz_/"><img src="https://github.com/Hasnzidan/Hasnzidan/blob/main/instagram.svg" alt="hasnzidan"/></a>
   <a target="_blank" href="https://twitter.com/_izidan"><img src="https://github.com/Hasnzidan/Hasnzidan/blob/main/twitter.svg" alt="hasnzidan"/></a>
